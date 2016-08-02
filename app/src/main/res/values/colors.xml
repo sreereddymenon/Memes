@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/red900</color>
+    <color name="colorPrimaryDark">@color/red700</color>
+    <color name="colorAccent">@color/red500</color>
+    <color name="selector_color_ripple">@color/colorPrimary</color>
+    <color name="red500">#F44336</color>
+    <color name="red900">#B71C1C</color>
+    <color name="red700">#D32F2F</color>
+</resources>

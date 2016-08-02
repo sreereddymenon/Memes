@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_elements_recycler">
+        <item>Beneficios del gas natural</item>
+        <item>Calculadora del ahorro</item>
+        <item>Proceso de instalación</item>
+        <item>Costo de instalacion básica</item>
+    </array>
+</resources>
